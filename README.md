@@ -1,4 +1,5 @@
 # Python/Flask Tutorial for Visual Studio Code
+[![Build Status](https://dev.azure.com/1957019579/tigerPythonPro/_apis/build/status/tigerchen1983.python-sample-vscode-flask-tutorial?branchName=azure-pipelines3rd)](https://dev.azure.com/1957019579/tigerPythonPro/_build/latest?definitionId=2&branchName=azure-pipelines3rd)
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
 
